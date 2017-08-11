@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>STUDENT BIO</title>
+<body>
+	<h1>STUDENT BIO</h1>
+	<br>
+	<h2>Gregory Paik</h2>
+	<img src="Photo on 7-17-17 at 8.00 AM.jpg" alt="Daddy Daughter Picture" height=200 width=200>
+	<p>I am a proud dog owner of an epileptic dog. I wish to work hard enough in this program to get a well-paying remote job to devote my time to web development and endless dog care. Dogs > Humans ADED (All Day Every Day).
+	</p>
+	<br>
+	<h3>Contact Info</h3>
+	<ul>
+		<li>
+			<address>Email: <a href="mailto:grpaik92@gmail.com">grpaik92@gmail.com</a></li>
+		<li>Github: grpaik92</li>
+		<li>Portfolio: coming soon</li>
+	<ul>
+
+</body>
+
+</head>
+</html>
